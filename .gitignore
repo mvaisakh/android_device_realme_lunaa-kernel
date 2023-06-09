@@ -1,0 +1,7 @@
+*.tar.gz
+*.ko
+*.zip
+vmlinux
+System.map
+Module.symvers
+abi.prop
